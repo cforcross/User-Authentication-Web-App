@@ -38,7 +38,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">User Authentication Web App</h3>
 
   <p align="center">
    This broject is aimed at solving the nuances involved in creating a user authentication end to end with django and also
@@ -78,9 +78,6 @@
 ## About The Project
 
 ![GitHub Logo](/images/chowacross_1.PNG)
-## Project Dashboard
-![GitHub Logo](/images/chowacross_2.PNG)
-
 
 ### Built With
 
@@ -98,28 +95,25 @@
 To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+* pip
 ```sh
-npm install npm@latest -g
+download python
 ```
 
 ### Installation
 
 1. Clone the repo
 ```sh
-git clone 
+git clone https://github.com/cforcross/User-Authentication-Web-App.git
 ```
 2. Install requirement.txt
 ```sh
 pip install requirement.txt
 ```
-
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
+###### Project Dashboard
+![GitHub Logo](/images/chowacross_2.PNG)
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 

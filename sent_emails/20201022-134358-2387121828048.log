@@ -1,0 +1,13 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: cross@yahoo.com
+Date: Thu, 22 Oct 2020 10:43:58 -0000
+Message-ID: <160336343867.13084.17624992201475370147@DESKTOP-8LLQCDQ>
+
+Someone asked for password reset for email cross@yahoo.com.Follow the Link below
+http://127.0.0.1:8000{% url "authapp:password_reset_confirm"
+uidb64=uid token=token %}
+-------------------------------------------------------------------------------

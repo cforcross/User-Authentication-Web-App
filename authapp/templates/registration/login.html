@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% load bootstrap4 %}
+{% block title %}Login{% endblock title %}
+
+{% block content %}
+<div class="">
+    <div style="text-align: center;">
+        <h1>Log-in</h1>
+        {% if form.errors %}
+        <p>
+            Your username and password didn't match.Please
+            Please try again.
+        </p>
+        {% else %}
+        <p>Please, use the following form to log-in</p>
+        {% endif %}
+    </div>
+
+    <form action="" method="post" class="form ">
+        <p><a href="{% url 'authapp:password_reset' %}">Forgotten your password?</a></p>
+        {% csrf_token %}
+        {% bootstrap_form form %}
+        {% buttons %}
+        <input type="hidden" name="next" value="{{ next }}" />
+        <button type="submit" class="btn btn-primary">Submit</button>
+        {% endbuttons %}
+    </form>
+</div>
+{% endblock content %}

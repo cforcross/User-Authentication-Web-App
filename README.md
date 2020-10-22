@@ -85,7 +85,7 @@ Here's a blank template to get started:
 
 ### Built With
 
-* []()
+* python 3.8
 * []()
 * []()
 
@@ -108,11 +108,11 @@ npm install npm@latest -g
 
 1. Clone the repo
 ```sh
-git clone https://github.com/github_username/repo_name.git
+git clone 
 ```
-2. Install NPM packages
+2. Install requirement.txt
 ```sh
-npm install
+pip install requirement.txt
 ```
 
 

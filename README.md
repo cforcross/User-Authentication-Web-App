@@ -101,9 +101,9 @@ download python
 ```sh
 git clone https://github.com/cforcross/User-Authentication-Web-App.git
 ```
-2. Install requirement.txt
+2. Install requirements.txt
 ```sh
-pip install requirement.txt
+pip install requirements.txt
 ```
 <!-- USAGE EXAMPLES -->
 ## Usage

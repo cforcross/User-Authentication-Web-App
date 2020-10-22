@@ -115,16 +115,18 @@ pip install requirement.txt
 ###### Project Dashboard
 ![GitHub Logo](/images/chowacross_2.PNG)
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+The above showcases the user dashboard after the given user has registerd and sign in, giving him/her the ability to Edit,and change passwords.And the sounds out.This takes
+then to the next page which gives them the ability to sign back into the application and if they can't remember their password,a password forgotten link is availalbe for 
+them to then follow the steps inorde to reset their password
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Video demo](https://example.com)_
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/cforcross/User-Authentication-Web-App/issues) for a list of proposed features (and known issues).
 
 
 
@@ -151,9 +153,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Your Name - [@twitter_handle](https://twitter.com/chowacross) 
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/github_username/repo_name](https://github.com/cforcross/User-Authentication-Web-App.git)
 
 
 

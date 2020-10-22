@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/cforcross/User-Authentication-Web-App">
 <!--     <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
   </a>
 
@@ -39,7 +39,7 @@
    This broject is aimed at solving the nuances involved in creating a user authentication end to end with django and also
   shows how to create user profiles using signals 
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/cforcross/User-Authentication-Web-App"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="">View Demo</a>
@@ -167,17 +167,17 @@ i'll begin by acknowledging the amazing guys at python,github and bootstrap,font
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/cforcross/repo.svg?style=flat-square
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=flat-square
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=flat-square
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=flat-square
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=flat-square
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
+[contributors-url]: https://github.com/cforcross/repo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/cforcross/repo.svg?style=flat-square
+[forks-url]: https://github.com/cforcross/repo/network/members
+[stars-shield]: https://img.shields.io/github/stars/cforcross/repo.svg?style=flat-square
+[stars-url]: https://github.com/cforcross/repo/stargazers
+[issues-shield]: https://img.shields.io/github/issues/cforcross/repo.svg?style=flat-square
+[issues-url]: https://github.com/cforcross/repo/issues
+[license-shield]: https://img.shields.io/github/license/cforcross/repo.svg?style=flat-square
+[license-url]: https://github.com/cforcross/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
+[linkedin-url]: https://linkedin.com/in/cforcross
 [product-screenshot]: images/screenshot.png
 
 

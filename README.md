@@ -1,5 +1,5 @@
 
-![GitHub Logo](/images/chowacross_1.png)
+![GitHub Logo](/images/chowacross_1.PNG)
 # About
 This project is aimed at solving the nuances experienced in django during creating a user authentication from end to end
 and also creating a profile for each registered user. The article explaining the entire project can be found on medium 👉👉👉 

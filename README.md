@@ -148,9 +148,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/chowacross) 
+[@twitter_handle](https://twitter.com/chowacross) 
 
-Project Link: [github](https://github.com/cforcross/User-Authentication-Web-App.git)
+[github](https://github.com/cforcross/User-Authentication-Web-App.git)
 
 
 

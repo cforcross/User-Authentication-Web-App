@@ -150,7 +150,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/chowacross) 
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/cforcross/User-Authentication-Web-App.git)
+Project Link: [github](https://github.com/cforcross/User-Authentication-Web-App.git)
 
 
 

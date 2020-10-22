@@ -4,6 +4,8 @@
 This project is aimed at solving the nuances experienced in django during creating a user authentication from end to end
 and also creating a profile for each registered user. The article explaining the entire project can be found on medium 👉👉👉 
 link Below
+# Project DashBoard
+![GitHub Logo](/images/chowacross_2.PNG)
 # Requirements
 * python 3.8
 * Djanog 3.0

@@ -151,7 +151,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [@twitter_handle](https://twitter.com/chowacross) 
 
 [github](https://github.com/cforcross/User-Authentication-Web-App.git)
+
+
 [linknd](https://www.linkedin.com/in/chowa-cross-4380a858/)
+
+
 [instagram](https://www.instagram.com/chowagroup/)
 
 
